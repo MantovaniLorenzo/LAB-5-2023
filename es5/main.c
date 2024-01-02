@@ -5,6 +5,9 @@
 
 #define M 61
 
+// VERAMENTE FATTO MALE MA FUNZIONA
+
+
 int main(void)
 {
     char str[M], w1[M], w2[M], w3[M], w4[M], w5[M];
